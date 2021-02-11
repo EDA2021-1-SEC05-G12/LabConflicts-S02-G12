@@ -29,5 +29,6 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
 
 -Estudiante 1: Juan Sebastian Pinzon Sampedro
+-Estudiante 2: Nicolás Cano Cifuentes
 
 
